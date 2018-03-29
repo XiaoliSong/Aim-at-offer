@@ -1,4 +1,5 @@
 /*
+GitHub：https://github.com/XiaoliSong/Aim-at-offer
 链接：https://www.nowcoder.com/questionTerminal/4060ac7e3e404ad1a894ef3e17650423
 题目：
 请实现一个函数，将一个字符串中的空格替换成“%20”。例如，当字符串为We Are Happy.则经过替换之后的字符串为We%20Are%20Happy。
